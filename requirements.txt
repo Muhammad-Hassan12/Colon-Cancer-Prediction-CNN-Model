@@ -1,4 +1,4 @@
-**These are the versions of dependencies I have trained the model on**
+These are the versions of dependencies I have trained the model on!
 
 Name                      Version                  Build
 anaconda                  2022.10                  py39_0
