@@ -93,31 +93,35 @@ The dataset consists of Colon Adenocarcinoma and Colon Benign Tissue images. The
 ## Results and Visualizations
 ### 1. *C_normal_1.h5*
 1. **Training & Validation Accuracy & Loss:**
-* ![C_normal_1](https://github.com/user-attachments/assets/39563431-f66e-4c40-9582-69a5369df22f)
+* ![C_normal_1](https://github.com/user-attachments/assets/42941503-f0ef-4646-becc-1bb170949d43)
+
 2. **Confusion Matrix:**
-* ![Report](https://github.com/user-attachments/assets/43fcc0a3-e400-4b87-bca8-eba9940979b9)
+* ![Report](https://github.com/user-attachments/assets/bf6c3883-33e0-4345-85e0-9709d7ec6276)
 
 ### 2. *C_large_1.h5*
 1. **Training & Validation Accuracy & Loss:**
-* ![C_large_1](https://github.com/user-attachments/assets/b76d6cda-4cc3-4303-adb2-2c6c771361be)
+* ![C_large_1](https://github.com/user-attachments/assets/30a95714-498b-4e07-83e1-21d3689d3d75)
+
 2. **Confusion Matrix:**
-* ![Report](https://github.com/user-attachments/assets/26b54a69-c90f-4a0f-85c9-6ee44a20a817)
+* ![Report](https://github.com/user-attachments/assets/f4ca1141-495c-4ae8-bae1-aad98ec97d04)
 
 ### 3. *C_WDA_1.h5*
 1. **Training & Validation Accuracy & Loss:**
-* ![C_WDA_1](https://github.com/user-attachments/assets/ed0f486c-af8b-4386-a5de-10c0fc946e5c)
+* ![C_WDA_1](https://github.com/user-attachments/assets/45443f87-b3bb-46e4-b85d-058a83873365)
 
 ### 4. *C_DA_1.h5*
 1. **Training & Validation Accuracy & Loss:**
-* ![C_DA_1](https://github.com/user-attachments/assets/73cabb20-e77c-480f-b860-db72eaae3756)
+* ![C_DA_1](https://github.com/user-attachments/assets/739d5e9a-b72d-4e30-b5b4-caeefc317464)
+
 2. **Confusion Matrix:**
-* ![Report](https://github.com/user-attachments/assets/8e460408-65d6-40bc-ac98-14697954f3ce)
+* ![Report](https://github.com/user-attachments/assets/44a1dbe4-ab6d-4c35-a9c9-6904285bc88b)
 
 ### 5. *C_DA_2.h5*
 1. **Training & Validation Accuracy & Loss:**
-* ![C_DA_2](https://github.com/user-attachments/assets/52f45b80-91b6-4d1e-b0b2-40bb7c620e76)
+* ![C_DA_2](https://github.com/user-attachments/assets/67c606d9-21d2-466a-a8b7-c93ca07868de)
+
 2. **Confusion Matrix:**
-* ![Report](https://github.com/user-attachments/assets/59c7bad0-ba3c-47df-b247-22c99feae662)
+* ![Report](https://github.com/user-attachments/assets/3dcb1bb5-9d30-46e8-8105-4d8fab771c97)
 
 ## Example Predictions
 * Input: Colon biopsy image
