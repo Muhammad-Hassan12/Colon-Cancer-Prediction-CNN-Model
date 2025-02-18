@@ -1,0 +1,13 @@
+**These are the versions of dependencies I have trained the model on**
+
+Name                      Version                  Build
+anaconda                  2022.10                  py39_0
+jupyter                   1.0.0            py39haa95532_8
+keras                     3.7.0                    pypi_0
+matplotlib                3.9.4                    pypi_0
+numpy                     1.26.4                   pypi_0
+pandas                    2.2.3                    pypi_0
+pip                       22.2.2           py39haa95532_0
+scikit-learn              1.0.2            py39hf11a4ad_1
+tensorflow                2.18.0                   pypi_0
+sklearn                   0.0.post5                pypi_0
